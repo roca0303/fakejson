@@ -1,9 +1,9 @@
 {
   "videos": [
-    { "id": 1, "title": "DkBu4-Sp240" },
-    { "id": 2, "title": "7QwZ3FVZ87k" },
-    { "id": 3, "title": "baQ0DiIELCs" },
-    { "id": 4, "title": "6TY8VozjLXo" }
+    { "tittle": "cancion 1", "id": "DkBu4-Sp240" },
+    { "tittle": "cancion 2", "id": "7QwZ3FVZ87k" },
+    { "tittle": "cancion 3", "id": "baQ0DiIELCs" },
+    { "tittle": "cancion 4", "id": "6TY8VozjLXo" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
